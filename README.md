@@ -3,5 +3,5 @@
 
 #   Name:       Moldir Berkaliyeva
 
-dataset.xls - file containing a dataset
+data.txt - file containing a dataset
 
